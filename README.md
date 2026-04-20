@@ -34,6 +34,8 @@
 </a>
 </div>
 
+![lol](https://komarev.com/ghpvc/?username=nugehoodg&color=green)
+
 ###
 
 I build applications that are simple, functional, and meaningful. With experience in Web and Mobile Development, I focus on creating clean, user-friendly interfaces and scalable solutions. I also work with C#, VB, and Godot, exploring both software development and interactive experiences.
