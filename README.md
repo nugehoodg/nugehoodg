@@ -40,9 +40,34 @@
 
 ###
 
-I build applications that are simple, functional, and meaningful. With experience in Web and Mobile Development, I focus on creating clean, user-friendly interfaces and scalable solutions. I also work with C#, VB, and Godot, exploring both software development and interactive experiences.
+I am a **Multidisciplinary Professional** specializing in the intersection of code and creative design. With 7+ years of experience, I build digital experiences that are functional, scalable, and visually compelling.
 
-Beyond coding, I work as a Graphic Designer, 3D Artist, and Video Editor, creating visual content that blends creativity with technical precision. I enjoy bringing ideas to life through design, motion, and digital media.
+### 🚀 Technical Expertise
+* **Web & Mobile Development:** Expert in **Front-End Development**, creating responsive interfaces with **HTML5, CSS3, JavaScript,** and **Tailwind CSS**.
+* **Software Engineering:** Experienced in building robust applications using **C#**, **VB/VBA**, and **Automation tools**.
+* **Game Dev & Interactive:** Developing immersive experiences using the **Godot Engine**.
 
-###
+### 🎨 Creative Strategy & Design
+Beyond the terminal, I provide high-impact visual solutions:
+* **Graphic Design & Branding:** Crafting visual identities and social media campaigns with high engagement.
+* **3D Art & Motion:** Creating precision-based **3D assets** and **Video Editing** (Short-form content to long-form storytelling).
+* **Content Creation:** Scriptwriting and digital media production that drives audience growth.
+
+---
+
+### 🛠️ Core Tech Stack
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Development** | JavaScript, Tailwind CSS, C#, VB/VBA, Flutter |
+| **Design** | Brand Identity, UI/UX, 3D Modeling |
+| **Media** | Video Editing, Motion Graphics, Scriptwriting |
+| **Engines** | Godot, Android Development |
+
+---
+
+### 📈 Career Highlights
+* **8,000+ views** on produced video content.
+* **7+ years** of professional experience in digital product creation.
+* Designed workflows that significantly improve **User Experience (UX)** and automation.
+
 
